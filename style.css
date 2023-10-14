@@ -210,7 +210,8 @@
   width: 200px;
   margin: auto;
   height: 100px;
-  margin-top: 50px;
+  margin-top: 20px;
+  padding-bottom: 80px;
   border: 0px solid firebrick;
 }
 
