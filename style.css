@@ -13,7 +13,7 @@
 /* for Top Container */
 #container > #top-container {
   border: 0px solid red;
-  height: 70px;
+  height: 60px;
   align-items: center;
   margin: auto;
 }
@@ -39,20 +39,21 @@
 
 #container > #top-container > .navbar > .navbar-right {
   width: 10%;
-  margin-left: 6%;
   display: flex;
-  gap: 20px;
+  gap: 15px;
   border: 0px solid rgb(255, 157, 0);
 }
 
 #container > #top-container > .navbar > .navbar-right > div {
-  margin-left: 10%;
-  font-size: large;
+  font-size: 27px;
   border: 0px solid rgb(255, 157, 0);
 }
 
 #container > #top-container > .navbar > .navbar-left h3 {
   font-family: "YourFontFamily", sans-serif;
+  font-size: 21px;
+  color: black;
+  font-weight:normal;
   font-style: unset;
 }
 
