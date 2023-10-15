@@ -31,7 +31,7 @@ List any prerequisites or requirements for setting up the project:
   ### Deploy link - https://simplotel-html-css-assignment.vercel.app/
   ### GitHub Link - https://github.com/Summi51/Simplotel_HTML-CSS-Assignment
 
-##Project Structure
+## Project Structure
 
 Screen shorts of the project
 
