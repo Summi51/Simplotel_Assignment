@@ -1,4 +1,4 @@
-# Simplotel HTML & CSS Assignment
+# HTML & CSS Assignment
 
 ## Project Overview
 
